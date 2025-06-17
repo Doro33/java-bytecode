@@ -36,9 +36,9 @@ All of this is done **without writing a single line of Java source code** — th
 java SumProgram
 
 You will see:
-Enter the first number:
- 50
-Enter the second number:
- 20
-Result: 70
+- Enter the first number:
+-  50
+- Enter the second number:
+-  20
+- Result: 70
 
